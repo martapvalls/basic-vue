@@ -1,0 +1,70 @@
+#app {
+        padding: 20px;
+    min-height: 800px;
+  }
+
+.coin-detail-container {
+  display: flex;
+  font-family: sans-serif;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+  h1 {
+      margin: 100px;
+  }
+  .green {
+    color: seagreen;
+  }
+  
+  .red {
+    color: tomato;
+  }
+  
+  .orange {
+    color: orange;
+  }
+  
+  .uppercase {
+    text-transform: uppercase
+  }
+  
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+  
+  img {
+    height: 64px;
+    width: 64px;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  ul li {
+    margin-top: 5px;
+  }
+  
+  button {
+    padding: 10px;
+    margin: 50px;
+    border-radius: 15px;
+    font-weight: bold;
+  }
+  input{
+      border-radius: 10px;
+      text-align: center;
+      padding-left: 15px;
+      margin: 20px;
+  }
+  .row {
+    justify-content: space-around;
+    display: flex !important;
+    flex-direction: row !important;
+  }
+  
+  span {
+    cursor: pointer;
+  }
