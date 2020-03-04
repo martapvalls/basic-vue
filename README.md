@@ -25,7 +25,13 @@ Demo to add the courses made in platzi as well as the hours dedicated to each on
 Run the demo here : https://tracker-courses-vue.netlify.com/
 
 ![tracker-vue](img/tracker-vue.png)
+
+
 ## vue-bitcoin
 
 
+It shows the value of bitcoin as well as a converter. You can also set dark / light mode on the website.
+
 Run the demo here : https://vue-bitcoin.netlify.com/
+
+![bitcoin-vue](img/bitcoin-vue.png)
